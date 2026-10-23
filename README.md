@@ -1,4 +1,4 @@
-# Giri Krishna C M — Arctic Neon Portfolio
+# Giri Krishna C M —  Portfolio
 
 A professional, responsive static portfolio built from Giri Krishna C M's supplied CV, profile photo and FIESTAA'26 certificate.
 
